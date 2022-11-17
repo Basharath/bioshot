@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Basharath",
+    "headline": "FullStack Developer | Indie maker",
+    "about": "I'm a full-stack developer with a great interest in solving problems. I'm making one interesting product every month that solves a useful problem in my daily routine.",
+    "socials": {
+      "twitter": "wahVinci",
+      "linkedin": "basharathonline",
+      "producthunt": "basharath",
+      "github": "basharath",
+      "indiehackers": "basharath",
+      "codepen": "basharath"
+    },
+    "links": {
+      "website": "https://devapt.com",
+      "portfolio": "https://basharath.github.io"
+    },
+    "username": "basharath"
+  },
+  {
+    "name": "JohnDoe",
+    "headline": "FullStack Developer | Indie maker",
+    "about": "I'm a full-stack developer with a great interest in solving problems. I'm making one interesting product every month that solves a useful problem in my daily routine.",
+    "socials": {
+      "twitter": "wahVinci",
+      "linkedin": "JohnDoeonline",
+      "producthunt": "JohnDoe",
+      "github": "JohnDoe",
+      "indiehackers": "JohnDoe",
+      "codepen": "JohnDoe"
+    },
+    "links": {
+      "website": "https://devapt.com",
+      "portfolio": "https://JohnDoe.github.io"
+    },
+    "username": "JohnDoe"
+  }
+]
