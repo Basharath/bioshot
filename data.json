@@ -19,11 +19,10 @@
   },
   {
     "name": "JohnDoe",
-    "headline": "FullStack Developer | Indie maker",
-    "about": "I'm a full-stack developer with a great interest in solving problems. I'm making one interesting product every month that solves a useful problem in my daily routine.",
+    "headline": "Developer",
     "socials": {
-      "twitter": "wahVinci",
-      "linkedin": "JohnDoeonline",
+      "twitter": "JohnDoe",
+      "linkedin": "JohnDoe",
       "producthunt": "JohnDoe",
       "github": "JohnDoe",
       "indiehackers": "JohnDoe",
@@ -33,6 +32,24 @@
       "website": "https://devapt.com",
       "portfolio": "https://JohnDoe.github.io"
     },
-    "username": "JohnDoe"
+    "username": "johndoe"
+  },
+  {
+    "name": "Alice",
+    "headline": "Creator | Blogger",
+    "about": "Passionate blogger with great interest in products!",
+    "socials": {
+      "twitter": "Alice",
+      "linkedin": "Alice",
+      "producthunt": "Alice",
+      "github": "Alice",
+      "indiehackers": "Alice",
+      "codepen": "Alice"
+    },
+    "links": {
+      "website": "https://devapt.com",
+      "portfolio": "https://Alice.github.io"
+    },
+    "username": "alice"
   }
 ]
